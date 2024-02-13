@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Administrator/Desktop/정보처리기사/C/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -g -o CMakeFiles\\cmake.dir\\main.c.obj -c C:\\Users\\Administrator\\Desktop\\정보처리기사\\C\\main.c",
+  "file": "C:\\Users\\Administrator\\Desktop\\정보처리기사\\C\\main.c",
+  "output": "CMakeFiles\\cmake.dir\\main.c.obj"
+}
+]
