@@ -1,13 +1,13 @@
 #include<stdio.h>
-#define n 5
 int main(){
-    int num[n]={38,12,51,22,10};
-    int i,result;
-    result=num[0];
-    for (int i = 0; i < n; i++)
-    {
-        if(result<num[i])
-            result=num[i];
+    char msg[50]="Hello World! Happy Day!";
+    int i=2,number=0;
+    while (msg[i]!='!')
+    {   
+        if(msg[i]=='a'|msg[i]=='e'|msg[i]=='i'|msg[i]=='o'|msg[i]=='u'){number++;}
+        i++;
+        /* code */
     }
-printf("%d",result);
+    printf("%d",number);
+    
 }
